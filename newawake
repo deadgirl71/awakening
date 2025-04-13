@@ -2,7 +2,7 @@ var multiConfig = {"THISROOM":"awaking","locationColor":"white","locationBackgro
 
 var roomstuff = {"rooms":{
 
-"wiccan":{"rName":"Wiccan Peace","backgroundImage":"https://soi-awaking.hyperchat.com/1TheShadowedVeilbackground.jpeg","chatleft":"","underchat":"","roomtop":"<style>body {color: #c2f1ff;}</style><center><img class='topImage' src='https://soi-awaking.hyperchat.com/1TheShadowedVeiltop.jpg'><br>Our Wiccan Home</center>","roombottom":""},
+"wiccan":{"rName":"Wiccan Peace","backgroundImage":"https://soi-awaking.hyperchat.com/1TheMoonlitAltarbackground.jpg","chatleft":"","underchat":"","roomtop":"<style>body {color: #c2f1ff;}</style><center><img class='topImage' src='https://soi-awaking.hyperchat.com/1TheMoonlitAltartop.jpg'><br>The Moonlit Altar</center>","roombottom":""},
 
 "odin":{"rName":"The God Odin","backgroundImage":"https://soi-awaking.hyperchat.com/odinsback1.jpg","chatleft":"","underchat":"","roomtop":"<style>body {color: #c8b4b0;}</style><center><img class='topImage' src='https://soi-awaking.hyperchat.com/odinstopuse1.jpg'><br>Odin's Wisdom</center>","roombottom":""},
 
