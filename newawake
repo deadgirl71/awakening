@@ -10,6 +10,4 @@ var roomstuff = {"rooms":{
 
 "hecate":{"rName":"Hecate's Crossroads","backgroundImage":"https://soi-awaking.hyperchat.com/hecateback2.jpg","chatleft":"","underchat":"","roomtop":"<style>body {color: #9a7c4f;}</style><center><img class='topImage' src='https://soi-awaking.hyperchat.com/hecatetopuse1.jpg'><BR>Hecate's Crossroads</center>","roombottom":""},
 
-"book":{"rName":"Book of Shadows Liberary","backgroundImage":"https://soi-awaking.hyperchat.com/bos.jpg","chatleft":"","underchat":"","roomtop":"<style>body {color: #9a7c4f;}</style><center><img class='topImage' src='https://soi-awaking.hyperchat.com/bostop.jpg'><BR>The Book of Shadows Liberary</center>","roombottom":""},
-
 }};
