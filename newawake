@@ -1,0 +1,15 @@
+var multiConfig = {"THISROOM":"awaking","locationColor":"white","locationBackground":"green","currentView":"","viewList":["wiccan","odin","freya","hecate","book"],"defaultView":"wiccan"}
+
+var roomstuff = {"rooms":{
+
+"wiccan":{"rName":"Wiccan Peace","backgroundImage":"https://soi-awaking.hyperchat.com/1TheShadowedVeilbackground.jpeg","chatleft":"","underchat":"","roomtop":"<style>body {color: #c2f1ff;}</style><center><img class='topImage' src='https://soi-awaking.hyperchat.com/1TheShadowedVeiltop.jpg'><br>Our Wiccan Home</center>","roombottom":""},
+
+"odin":{"rName":"The God Odin","backgroundImage":"https://soi-awaking.hyperchat.com/odinsback1.jpg","chatleft":"","underchat":"","roomtop":"<style>body {color: #c8b4b0;}</style><center><img class='topImage' src='https://soi-awaking.hyperchat.com/odinstopuse1.jpg'><br>Odin's Wisdom</center>","roombottom":""},
+
+"freya":{"rName":"The Goddess Freya","backgroundImage":"https://soi-awaking.hyperchat.com/newfreyaback.jpg","chatleft":"","underchat":"","roomtop":"<style>body {color: #9a7c4f;}</style><center><img class='topImage' src='https://soi-awaking.hyperchat.com/newfreyatop.jpg'><BR>Freya The Goddess</center>","roombottom":""},
+
+"hecate":{"rName":"Hecate's Crossroads","backgroundImage":"https://soi-awaking.hyperchat.com/hecateback2.jpg","chatleft":"","underchat":"","roomtop":"<style>body {color: #9a7c4f;}</style><center><img class='topImage' src='https://soi-awaking.hyperchat.com/hecatetopuse1.jpg'><BR>Hecate's Crossroads</center>","roombottom":""},
+
+"book":{"rName":"Book of Shadows Liberary","backgroundImage":"https://soi-awaking.hyperchat.com/bos.jpg","chatleft":"","underchat":"","roomtop":"<style>body {color: #9a7c4f;}</style><center><img class='topImage' src='https://soi-awaking.hyperchat.com/bostop.jpg'><BR>The Book of Shadows Liberary</center>","roombottom":""},
+
+}};
