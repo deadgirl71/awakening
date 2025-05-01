@@ -1,4 +1,4 @@
-var multiConfig = {"THISROOM":"awaking","locationColor":"white","locationBackground":"green","currentView":"","viewList":["wiccan","odin","freya","hecate"],"defaultView":"wiccan"}
+var multiConfig = {"THISROOM":"awaking","locationColor":"white","locationBackground":"green","currentView":"","viewList":["wiccan","odin","freya","hecate","mesopotamian"],"defaultView":"mesopotamian"}
 
 var roomstuff = {"rooms":{
 
@@ -9,5 +9,7 @@ var roomstuff = {"rooms":{
 "freya":{"rName":"The Goddess Freya","backgroundImage":"https://soi-awaking.hyperchat.com/newfreyaback.jpg","chatleft":"","underchat":"","roomtop":"<style>body {color: #9a7c4f;}</style><center><img class='topImage' src='https://soi-awaking.hyperchat.com/newfreyatop.jpg'><BR>Freya The Goddess</center>","roombottom":""},
 
 "hecate":{"rName":"Hecate's Crossroads","backgroundImage":"https://soi-awaking.hyperchat.com/hecateback2.jpg","chatleft":"","underchat":"","roomtop":"<style>body {color: #9a7c4f;}</style><center><img class='topImage' src='https://soi-awaking.hyperchat.com/hecatetopuse1.jpg'><BR>Hecate's Crossroads</center>","roombottom":""},
+
+"mesopotamian":{"rName":"Mesopotamian","backgroundImage":"https://soi-awaking.hyperchat.com/Anunnakiback.png","chatleft":"","underchat":"","roomtop":"<style>body {color: #9a7c4f;}</style><center><img class='topImage' src='https://soi-awaking.hyperchat.com/NEtogether.jpg'><BR>Mesopotamian</center>","roombottom":""},
 
 }};
